@@ -1,0 +1,17 @@
+.DS_Store
+
+# Global build/dependency noise
+**/node_modules
+**/node_modules/
+**/dist/
+**/.vercel/
+**/vite.config.js.timestamp-*.mjs
+
+# This repository is used for the Budget app only
+backmarket_carbone/
+guide_exercices_rentabilite.md
+kymia/
+kymia-music/
+ossema_growth_stack_2026.md
+ossema_plan_sortie_single.md
+tools/
